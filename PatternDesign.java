@@ -16,9 +16,14 @@ public class PatternDesign {
             cur+=temp--;
             System.out.print(cur+" ");
            }
-           cur=0;
            System.out.println();
         }
         sc.close();
     }
 }
+/* output
+1 
+2 6
+3 7 10
+4 8 11 13
+5 9 12 14 15 */
