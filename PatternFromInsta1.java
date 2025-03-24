@@ -27,12 +27,13 @@ public class PatternFromInsta1 {
                 }
                 print+=num+1;
             }
-            for(int j=1;j<=i;j++)
-            {
-                System.out.print(" ");
-            }
             System.out.println();
         }
         sc.close();
     }
 }
+/* output
+               1  2  3  4
+            8  7  6  5
+      9  10  11  12
+ 16  15  14  13 */
