@@ -23,3 +23,10 @@ public class HallowSquare {
 		sc.close();
 	}
 }
+/*
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * * 
+	*/
